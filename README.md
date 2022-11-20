@@ -1,4 +1,6 @@
-### Hi there 👋
+### Who is this Tikitu guy anyway?
+
+As far as things that end up in git go, mostly it's the Swift I write for my day job. Outside of version control I play mandola and take macro photographs of insects. I have a long-untouched [homepage](https://logophile.org) and as of late 2022 I'm on Mastodon as <a rel="me" href="https://mastodon.social/@tikitu">@tikitu@mastodon.social</a>.
 
 <!--
 **tikitu/tikitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
